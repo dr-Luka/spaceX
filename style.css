@@ -101,7 +101,7 @@ footer {
 /* Image of the day section */
 .imgOfDay {
   margin: 20px auto 30px auto;
-  width: 90%;
+  max-width: 50%;
 }
 .image {
   width: 100%;
